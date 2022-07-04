@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/category/</link>
+    <link>https://happyxin.github.io/categories/category/</link>
     <description>Recent content in category on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jul 2022 23:18:57 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://happyxin.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://example.org/post/first-post/</link>
+      <link>https://happyxin.github.io/post/first-post/</link>
       <pubDate>Mon, 04 Jul 2022 23:18:57 +0800</pubDate>
       
-      <guid>https://example.org/post/first-post/</guid>
+      <guid>https://happyxin.github.io/post/first-post/</guid>
       <description></description>
     </item>
     
