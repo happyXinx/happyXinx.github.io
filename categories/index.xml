@@ -1,1 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Categories - Category - happyXin's blog</title><link>https://happyxinx.github.io/categories/</link><description>Categories - Category - happyXin's blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liuxinoe@126.com (happyXin)</managingEditor><webMaster>liuxinoe@126.com (happyXin)</webMaster><atom:link href="https://happyxinx.github.io/categories/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - happyXin&#39;s blog</title>
+        <link>https://happyxinx.github.io/categories/</link>
+        <description>Categories - Category - happyXin&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liuxinoe@126.com (happyXin)</managingEditor>
+            <webMaster>liuxinoe@126.com (happyXin)</webMaster><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://happyxinx.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown</title>
+    <link>https://happyxinx.github.io/categories/markdown/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>happyXin</author>
+    <guid>https://happyxinx.github.io/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
