@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/xin-blog/xin-blog",
+	"sourceRoot": "/Users/liuxin7/xin-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
