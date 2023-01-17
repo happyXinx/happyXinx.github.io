@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://happyxinx.github.io/en/sitemap.xml
+Sitemap: https://happyxinx.github.io/sitemap.xml
